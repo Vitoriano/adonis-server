@@ -861,8 +861,9 @@ detect-file@^1.0.0:
   resolved "https://registry.yarnpkg.com/detect-file/-/detect-file-1.0.0.tgz#f0d66d03672a825cb1b73bdb3fe62310c8e552b7"
   integrity sha1-8NZtA2cqglyxtzvbP+YjEMjlUrc=
 
-"diagnostics@github:DABH/diagnostics#master":
+diagnostics@DABH/diagnostics#master:
   version "2.0.2"
+  uid "5d8f82956c32bf73a8802e806c585758fad627ba"
   resolved "https://codeload.github.com/DABH/diagnostics/tar.gz/5d8f82956c32bf73a8802e806c585758fad627ba"
   dependencies:
     colorspace "1.1.x"
@@ -2573,9 +2574,9 @@ serve-static@^1.13.2:
     send "0.17.1"
 
 set-getter@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/set-getter/-/set-getter-0.1.0.tgz#d769c182c9d5a51f409145f2fba82e5e86e80376"
-  integrity sha1-12nBgsnVpR9AkUXy+6guXoboA3Y=
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/set-getter/-/set-getter-0.1.1.tgz#a3110e1b461d31a9cfc8c5c9ee2e9737ad447102"
+  integrity sha512-9sVWOy+gthr+0G9DzqqLaYNA7+5OKkSmcqjL9cBpDEaZrr3ShQlyX2cZ/O/ozE41oxn/Tt0LGEM/w4Rub3A3gw==
   dependencies:
     to-object-path "^0.3.0"
 
