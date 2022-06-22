@@ -457,9 +457,9 @@ assign-symbols@^1.0.0:
   integrity sha1-WWZ/QfrdTyDMvCu5a41Pf3jsA2c=
 
 async@^3.1.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/async/-/async-3.2.0.tgz#b3a2685c5ebb641d3de02d161002c60fc9f85720"
-  integrity sha512-TR2mEZFVOj2pLStYxLht7TyfuRzaydfpxr3k9RpHIzMgw7A64dzsdqCxH1WJyQdoe8T10nDXd9wnEigmiuHIZw==
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-3.2.4.tgz#2d22e00f8cddeb5fde5dd33522b56d1cf569a81c"
+  integrity sha512-iAB+JbDEGXhyIUavoDl9WP/Jj106Kz9DEn1DPgYw5ruDn0e3Wgi3sKFm55sASdGBNOQB8F59d9qQ7deqrHA8wQ==
 
 atob@^2.1.2:
   version "2.1.2"
@@ -861,9 +861,10 @@ detect-file@^1.0.0:
   resolved "https://registry.yarnpkg.com/detect-file/-/detect-file-1.0.0.tgz#f0d66d03672a825cb1b73bdb3fe62310c8e552b7"
   integrity sha1-8NZtA2cqglyxtzvbP+YjEMjlUrc=
 
-"diagnostics@github:DABH/diagnostics#master":
-  version "2.0.2"
-  resolved "https://codeload.github.com/DABH/diagnostics/tar.gz/5d8f82956c32bf73a8802e806c585758fad627ba"
+diagnostics@DABH/diagnostics#master:
+  version "2.0.3"
+  uid dd61ee65d0a2d4c93d9a4acbddb926b4071de296
+  resolved "https://codeload.github.com/DABH/diagnostics/tar.gz/dd61ee65d0a2d4c93d9a4acbddb926b4071de296"
   dependencies:
     colorspace "1.1.x"
     enabled "2.0.x"
